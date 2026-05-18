@@ -1,0 +1,5 @@
+---
+mysql:
+  db: 'dbname'
+  user: 'username'
+  password: 'password'
